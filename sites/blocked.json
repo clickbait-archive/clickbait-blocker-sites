@@ -1,8 +1,6 @@
-[
-  {
-    "usuncut.com": {
-      "issue_id": 3,
-      "category": "clickbait"
-    }
+{
+  "usuncut.com": {
+    "issue_id": 3,
+    "category": "clickbait"
   }
-]
+}
